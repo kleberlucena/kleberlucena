@@ -21,7 +21,7 @@ Projeto Atual
 1. DataHub
 Descrição: Sistema de cadatro e georreferenciamento de ocorrências.
 
-Tecnologias: Django, Bootstrap, PostgreSQL
+Tecnologias: Django, Bootstrap, PostgreSQL </br>
 Link: [Repositório do Projeto](https://github.com/kleberlucena/datahub)
 
 
