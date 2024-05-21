@@ -1,7 +1,9 @@
 <!-- Twinkling Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=180&section=header&text=Kleber+Lucena&fontSize=48&fontColor=F0F8FF&animation=twinkling&fontAlignY=35" style="max-width: 100%;">
 
-Olá! Eu sou kleber Lucena, um desenvolvedor full-stack com especialidade em cartografia. Com formação superior em Geoprocessamento, tenho uma sólida experiência em desenvolvimento de aplicações web usando Django, Bootstrap e JavaScript. Atualmente, trabalho como Analista Criminal e Mapeamento Criminal, onde aplico minhas habilidades para ajudar na tomada de decisões baseadas em dados.
+Olá! Eu sou kleber Lucena, um desenvolvedor full-stack com especialidade em cartografia.</br>
+Com formação superior em Geoprocessamento, tenho uma sólida experiência em desenvolvimento de aplicações web usando Django, Bootstrap e JavaScript. </br>
+Atualmente, trabalho como Analista Criminal e Mapeamento Criminal, onde aplico minhas habilidades para ajudar na tomada de decisões baseadas em dados.
 </br></br>
 Sobre Mim
 </br></br>
@@ -25,7 +27,7 @@ Outras Ferramentas: Git, Docker, REST APIs</br>
 Projeto Atual
 </br></br>
 1. DataHub</br>
-Descrição: Sistema de cadatro e georreferenciamento de ocorrências.</br>
+Descrição: Sistema de cadastro e georreferenciamento de ocorrências.</br>
 </br></br>
 Tecnologias: Django, Bootstrap, PostgreSQL </br>
 Link: [Repositório do Projeto](https://github.com/kleberlucena/datahub)</br>
