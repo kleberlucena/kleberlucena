@@ -1,5 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=180&section=header&text=Kleber+Lucena&fontSize=30&fontColor=F0F8FF&animation=blinking&fontAlignY=35" style="max-width: 100%;">
-<
+<!-- Twinkling Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Kleber+Lucena&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35" style="max-width: 100%;">
+
 Olá! Eu sou kleber Lucena, um desenvolvedor full-stack com especialidade em cartografia. Com formação superior em Geoprocessamento, tenho uma sólida experiência em desenvolvimento de aplicações web usando Django, Bootstrap e JavaScript. Atualmente, trabalho como Analista Criminal e Mapeamento Criminal, onde aplico minhas habilidades para ajudar na tomada de decisões baseadas em dados.
 </br></br>
 Sobre Mim
